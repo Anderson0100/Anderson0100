@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou Anderson Junior
 
-🚀 **Dev apaixonada por tecnologia, automação, inteligência artificial e cibersegurança.**
+🚀 **Dev apaixonado por tecnologia, automação, inteligência artificial e cibersegurança.**
 
 Sou estudante de TI no SENAI e atuo unindo tecnologia, operações e marketing na Advocacia Anderson Luciano. Gosto de resolver problemas reais através da programação e tenho experiência prática na criação de soluções tecnológicas, focando especialmente em sistemas jurídicos, desenvolvimento web, APIs e automação de processos.
 
@@ -11,9 +11,12 @@ Sou estudante de TI no SENAI e atuo unindo tecnologia, operações e marketing n
 - 📚 Aprofundando conhecimentos em Python, Java, JS/TS, Flask, Cibersegurança, AWS e IA.
 
 ### 🛠️ Tecnologias e Conhecimentos:
-- **Linguagens:** Python, Java, JavaScript e TypeScript
-- **Frameworks e Web:** Flask, Spring Boot, APIs REST, HTML, CSS
-- **Interesses Fortes:** Inteligência Artificial, Cloud (AWS), Automação e Segurança
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 📫 Como me encontrar:
 - **LinkedIn:** [Anderson Junior](https://www.linkedin.com/in/anderson-junior-712b33344/)
